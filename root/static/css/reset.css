@@ -1,0 +1,11 @@
+html, body, a, ul, li, div, span, h1, h2, h3,h4, p, img, form, input, select, option, table, tbody, td, tr, textarea, dl, dt, dd { margin: 0; padding: 0;}
+ul, li { list-style: none;}
+img { display: block; border:none;}
+body { font: 14px/1.5 tahoma, arial, 'Hiragino Sans GB', \5b8b\4f53, sans-serif;}
+.ct { text-indent: -999px; text-align: left; overflow: hidden; font-size: 0; line-height: 0;}
+.cf:after { content:""; display:table; clear: both; overflow:hidden;}
+.cf { zoom: 1;}
+a { text-decoration: none; outline: none;}
+a:hover { text-decoration: underline;}
+a:focus { outline: none;}
+input { outline: none;}
